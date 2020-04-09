@@ -1,0 +1,20 @@
+{
+    "name": "sl/ebusclient",
+    "authors": [
+        {
+            "name": "zhouwei",
+            "email": "402330233@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sl\\Ebusclient\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sl\\Ebusclient\\Tests\\": "tests/"
+        }
+    },
+    "require": {}
+}
