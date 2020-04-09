@@ -1,9 +1,8 @@
 <?php
 
-namespace Sl\Ebusclient\Providers;
+namespace Sl\Ebusclient;
 
 use Illuminate\Support\ServiceProvider;
-use Sl\Ebusclient\Ebusclient;
 
 class EbusclientServiceProvider extends ServiceProvider
 {
